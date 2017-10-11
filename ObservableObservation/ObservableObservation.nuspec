@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>org.knatten.ObservableObservation</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Anders Schau Knatten</authors>
+    <owners>Anders Schau Knatten</owners>
+    <licenseUrl>https://github.com/knatten/ObservableObservation/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/knatten/ObservableObservation</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>observables reactive rx debugging</tags>
+  </metadata>
+</package>
